@@ -1,6 +1,3 @@
-Hello, 
-learning Jekyll here
-
 ---
 layout: default
 ---
