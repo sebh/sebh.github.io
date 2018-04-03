@@ -1,5 +1,7 @@
-
+---
+layout: homepage
+---
 
 # My Jekyll site
 
-Welcome to my Jekyll site 3
+Welcome to my Jekyll site 4
