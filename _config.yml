@@ -37,10 +37,11 @@ github_username:  sebh
 repository: "https://sebh.github.io/"
 
 # Build settings
-markdown: kramdown
-theme: jekyll-theme-midnight
-gems:
-  - jekyll-feed
+# markdown: kramdown
 
-#highlighter: rouge
+theme: jekyll-theme-midnight
+# gems:
+#   - jekyll-feed
+
+# highlighter: rouge
 
