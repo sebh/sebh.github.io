@@ -2,4 +2,4 @@
 
 # My Jekyll site
 
-Welcome to my Jekyll site 1
+Welcome to my Jekyll site 2
