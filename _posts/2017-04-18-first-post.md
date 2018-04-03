@@ -1,1 +1,8 @@
-This is my first post
+---
+layout: default
+---
+
+# My First Post
+
+Hello from Sweden
+
