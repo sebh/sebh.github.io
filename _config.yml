@@ -34,7 +34,7 @@ repository: "sebh/sebh.github.io"
 
 # Build settings
 markdown: kramdown
-encoding: UTF-8
+# encoding: UTF-8 # Should add support for UTF8 but does not seem to work
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
