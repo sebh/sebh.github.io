@@ -34,7 +34,7 @@ repository: "sebh/sebh.github.io"
 
 # Build settings
 markdown: kramdown
-
+encoding: UTF-8
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
