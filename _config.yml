@@ -37,7 +37,7 @@ markdown: kramdown
 # encoding: UTF-8 # Should add support for UTF8 but does not seem to work
 
 # Google analytics
-ga_tracking_id: "UA-23067704-1"
+# ga_tracking_id: "UA-23067704-1"		Does not seem to work...
 
 
 # Category descriptions (for archive pages)
